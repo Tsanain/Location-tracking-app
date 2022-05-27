@@ -1,7 +1,7 @@
 # Location-tracking-app
 This app tracks location of user and logs it into google firebase.
 
-<img src="https://user-images.githubusercontent.com/89830533/170771176-7fda2403-bef6-4855-b07a-13d833a3e828.png" height="200" width="200" >
+<img src="https://user-images.githubusercontent.com/89830533/170771176-7fda2403-bef6-4855-b07a-13d833a3e828.png" height="500" width="500" >
 <img src="https://user-images.githubusercontent.com/89830533/170771226-44399bc6-062a-4f4d-9ffc-3a1c7ecd18e3.png" height="200" width="200" >
 <img src="https://user-images.githubusercontent.com/89830533/170771260-a2b6a6a0-97e3-48e6-9124-3f3541f66068.png" height="200" width="200" >
 <img src="https://user-images.githubusercontent.com/89830533/170771284-017c535a-d348-4add-b26c-0c563bf17b52.png" height="200" width="200" >
