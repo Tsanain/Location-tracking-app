@@ -18,6 +18,6 @@ This app tracks location of user and logs it into google firebase.
 ## Installation
 
 1. Create a new project in android studio
-2. Copy and paste "main.dart" and "map.dart" from this repo to your porject
-3. Add your api key for geolocation api and firebase in the json file.
+2. Copy and paste "main.dart" and "map.dart" from this repo to your porject root folder/lib.
+3. Add your api key for geolocation api and firebase in the google-services.json file.
 4. Click on build and run the emulator.
